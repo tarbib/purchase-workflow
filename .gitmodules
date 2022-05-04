@@ -7,3 +7,8 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 14.0
+
+[submodule "LevelPrime/web"]
+	path = LevelPrime/web
+	url = git@github.com:LevelPrime/web.git
+	branch = 14.0-mig-web_edit_user_filter
